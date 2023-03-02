@@ -1,0 +1,22 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    gap: 40px;
+}
+
+button {
+    padding: 10px;
+    width: 200px;
+    height:200px;
+}
+
+#point,
+#result,
+#final_result {
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    height : 40px;
+}
